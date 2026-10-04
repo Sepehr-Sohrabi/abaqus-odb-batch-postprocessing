@@ -78,16 +78,6 @@ ModuleNotFoundError: No module named 'odbAccess'
 
 ---
 
-# File Name
-
-The script is named:
-
-```text
-max_everything_location_value.py
-```
-
----
-
 # Folder Structure
 
 The script is designed to automatically find all `.odb` files in the **same folder as the Python script**.
